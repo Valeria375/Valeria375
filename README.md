@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Babel](https://github.com/tandpfun/skill-icons/raw/main/icons/Babel.svg)
 <!--
 **Valeria375/Valeria375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
