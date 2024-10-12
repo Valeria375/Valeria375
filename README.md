@@ -1,9 +1,6 @@
 ### Hi there 👋
 ![Babel](https://github.com/tandpfun/skill-icons/raw/main/icons/Babel.svg)
-<!--
-**Valeria375/Valeria375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 • 🔭 I’m currently working on a responsive web application using React and Tailwind CSS.
 
@@ -20,4 +17,3 @@ Here are some ideas to get you started:
 • 😄 Pronouns: she/her 
 
 • ⚡️ Fun fact: I once built a personal website entirely out of LEGO bricks!
--->
