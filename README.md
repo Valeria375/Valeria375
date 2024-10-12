@@ -12,7 +12,7 @@
 
 • 💬 Ask me about best practices in CSS or how to implement animations with JavaScript!
 
-• 📫 How to reach me: vsokol375@gmail.com или через telegram [(https://t.me/Lerchik_Lerchic)].
+• 📫 How to reach me: vsokol375@gmail.com или через telegram https://t.me/Lerchik_Lerchic
 
 • 😄 Pronouns: she/her 
 
